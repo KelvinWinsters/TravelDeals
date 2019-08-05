@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1071347395063",
+    "firebase_url": "https://traveldeal-56f3b.firebaseio.com",
+    "project_id": "traveldeal-56f3b",
+    "storage_bucket": "traveldeal-56f3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071347395063:android:21222177a19d76f6",
+        "android_client_info": {
+          "package_name": "com.kelvin.traveldeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071347395063-gmr4kpeo14jmicsfvjklqgo91esln22b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelvin.traveldeals",
+            "certificate_hash": "3f9d3283bafed6811e25e04c22684717537e1a16"
+          }
+        },
+        {
+          "client_id": "1071347395063-5k6sjabg439b1ieq9saera176on943g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8VoAiQ7RAUG7NC3_dxMNG3feopKreYuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071347395063-5k6sjabg439b1ieq9saera176on943g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
